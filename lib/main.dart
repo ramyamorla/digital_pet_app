@@ -46,7 +46,7 @@ class _DigitalPetAppState extends State<DigitalPetApp> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             // Make sure the path here matches the asset folder in pubspec.yaml
-            Image.asset('assets/puppy.jpeg', height: 150), // Pet image from assets
+            Image.asset('assets/puppy.jpeg', height: 150), // Pet image from assetsss
             SizedBox(height: 20),
             Text(
               'Happiness: $happinessLevel%',
